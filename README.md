@@ -37,7 +37,7 @@ Built with love for the Fetch Take-Home Frontend Exercise
 ## Running Locally
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/base1234/FetchTakeHome2025.git
+cd FetchTakeHome2025
 npm install
 npm start
