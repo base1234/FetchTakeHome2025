@@ -21,7 +21,7 @@ Built with love for the Fetch Take-Home Frontend Exercise
 
 ## Live Demo
 
-[View the live deployed site here]((https://fetch-take-home2025srik.vercel.app/))
+[View the live deployed site here] (https://fetch-take-home2025srik.vercel.app/)
 
 ---
 
